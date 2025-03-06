@@ -84,3 +84,5 @@ CONCLUSION:
 1)	Brick breaker is simple and interactive game that helps us to get significant knowledge about 2D game development.
 2)	From this assignment I got to know enough about java.awt library which Contains all of the classes for creating user interfaces and for painting graphics and images. 
 3)	Brick Breaker was a successful educational experience that solidified our understanding of java.
+
+
